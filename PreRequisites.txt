@@ -1,0 +1,34 @@
+Turning Telemetry and Forensic Artifacts Into Information
+
+Recommended Pre Installs:
+Pre-Installation is not mandatory, but is recommended.  To get the most from this workshop several software tools should be pre-installed.  The workshop moves very quickly and pre-installation will help the participant to focus on the content rather than the installation(s).
+
+1. All Utilities and Software will be run under Windows.  Some may work under other platforms but all examples in this workshop are geared towards Windows.  Specifically Windows 10.  I recommend either a Windows 10 machine or VM.
+
+2. Highly Recommended: Participants should Pre-Install AChoir (Latest Version is 4.4)
+   https://github.com/OMENScan/AChoir
+
+3. Highly Recommended: Participants should Pre-Install Python Version 3.7 or above
+   https://www.python.org/downloads/release/python-385/
+
+4. Highly Recommended: Participants should Download and Test AChReport (Also requires MS Log Parser)
+   https://github.com/OMENScan/AChReport
+   https://www.microsoft.com/en-us/download/details.aspx?id=24659
+
+5. Recommended: Participants should Pre-Install 7Zip and SFX
+   https://www.7-zip.org/download.html
+
+6. Recommended: Participants should Pre-Install Volatility
+   https://www.volatilityfoundation.org/releases
+
+7. Recommended: Participants should Pre-Install Loki
+   https://github.com/Neo23x0/Loki
+
+8. Optional: Participants can Pre-Install SOF-ELK
+   https://github.com/philhagen/sof-elk
+
+9. Optional: Participants can Pre-Install Plaso
+   https://github.com/log2timeline/plaso
+
+
+
